@@ -11,15 +11,16 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Ranjan, Aditya; Wong, Devin T. (2025) Comparison of Approaches for Surface
-  Vessel Diameter and Pulsatility Quantification (Version draft) [Data set]. DANDI
-  Archive. https://dandiarchive.org/dandiset/001366/draft
+citation: Ranjan, Aditya; Wong, Devin T.; Huang, Qinwen; Ghanizada, Hashmat; Nedergaard,
+  Maiken ; Kelley, Douglas H. ; Boster, Kimberly A. S. (2025) Comparison of Approaches
+  for Surface Vessel Diameter and Pulsatility Quantification (Version draft) [Data
+  set]. DANDI Archive. https://dandiarchive.org/dandiset/001366/draft
 contributor:
 - affiliation:
   - identifier: https://ror.org/022kthw22
     name: University of Rochester
     schemaKey: Affiliation
-  email: yzhaoinuw@gmail.com
+  email: yuezhao@rochester.edu
   includeInCitation: false
   name: Zhao, Yue
   roleName:
@@ -36,14 +37,65 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
+- includeInCitation: true
+  name: Huang, Qinwen
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Ghanizada, Hashmat
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: 'Nedergaard, Maiken '
+  roleName:
+  - dcite:ProjectManager
+  schemaKey: Person
+- includeInCitation: true
+  name: 'Kelley, Douglas H. '
+  roleName:
+  - dcite:Supervision
+  schemaKey: Person
+- email: kboster@ur.rochester.edu
+  includeInCitation: true
+  name: Boster, Kimberly A. S.
+  roleName:
+  - dcite:ContactPerson
+  - dcite:ProjectManager
+  schemaKey: Person
+- awardNumber: R01AT012312
+  identifier: https://ror.org/05h1kgg64
+  includeInCitation: false
+  name: National Institute of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: U19NS128613
+  identifier: https://ror.org/05h1kgg64
+  includeInCitation: false
+  name: National Institute of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: MURI W911NF1910280
+  identifier: https://ror.org/00afsp483
+  includeInCitation: false
+  name: United States Army
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
 dateCreated: '2025-03-20T19:56:10.504193+00:00'
 description: movies of a pial vessel of mice used in the experiments.
 ethicsApproval: []
 id: DANDI:001366/draft
 identifier: DANDI:001366
 keywords:
-- Vessel diameter, Radon transform, full width at half maximum, vessel pulsation,
-  image analysis
+- Vessel diameter
+- Radon transform
+- full width at half maximum
+- vessel pulsation
+- image analysis
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
