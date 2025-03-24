@@ -98,6 +98,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-03-20T19:56:10.504193+00:00'
+datePublished: '2025-03-24T16:03:45.279009+00:00'
 description: movies of a pial vessel of mice used in the experiments.
 ethicsApproval: []
 id: DANDI:001366/draft
@@ -114,6 +115,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001366/versions/draft/assets/
 name: Comparison of Approaches for Surface Vessel Diameter and Pulsatility Quantification
 protocol: []
+publishedBy:
+  endDate: '2025-03-24T16:03:45.279009+00:00'
+  id: urn:uuid:1d326ff4-02a9-4d0b-8148-4ac0d0f96029
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-03-24T16:03:45.279009+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:cc953dba-ac3e-41e5-92c8-84a70faa4f43
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
