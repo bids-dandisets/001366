@@ -25,8 +25,8 @@ assetsSummary:
   variableMeasured: []
 citation: Ranjan, Aditya; Wong, Devin T.; Huang, Qinwen; Ghanizada, Hashmat; Nedergaard,
   Maiken ; Kelley, Douglas H. ; Boster, Kimberly A. S. (2025) Comparison of Approaches
-  for Surface Vessel Diameter and Pulsatility Quantification (Version draft) [Data
-  set]. DANDI Archive. https://dandiarchive.org/dandiset/001366/draft
+  for Surface Vessel Diameter and Pulsatility Quantification (Version 0.250324.1603)
+  [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001366/0.250324.1603
 contributor:
 - affiliation:
   - identifier: https://ror.org/022kthw22
@@ -100,8 +100,9 @@ contributor:
 dateCreated: '2025-03-20T19:56:10.504193+00:00'
 datePublished: '2025-03-24T16:03:45.279009+00:00'
 description: movies of a pial vessel of mice used in the experiments.
+doi: 10.48324/dandi.001366/0.250324.1603
 ethicsApproval: []
-id: DANDI:001366/draft
+id: DANDI:001366/0.250324.1603
 identifier: DANDI:001366
 keywords:
 - full width at half maximum
@@ -112,7 +113,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001366/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001366/0.250324.1603/assets.yaml
 name: Comparison of Approaches for Surface Vessel Diameter and Pulsatility Quantification
 protocol: []
 publishedBy:
@@ -132,6 +133,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001366/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001366/0.250324.1603
+version: 0.250324.1603
 wasGeneratedBy: []
