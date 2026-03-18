@@ -1,0 +1,11 @@
+dandiset.yaml
+dataset_description.json
+participants.tsv
+participants.json
+derivatives/dataset_description.json
+sub-031224_M4/sub-031224_M4_sessions.tsv
+sub-031224_M4/sub-031224_M4_sessions.json
+sub-031224_M4/ses-03122024-m4-baseline/ecephys/sub-031224_M4_ses-03122024-m4-baseline_ecephys.nwb
+sub-F15/sub-F15_sessions.tsv
+sub-F15/sub-F15_sessions.json
+sub-F15/ses-F15BC-19102023/ecephys/sub-F15_ses-F15BC-19102023_ecephys.nwb
